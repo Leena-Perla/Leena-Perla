@@ -1,8 +1,6 @@
-# Hi there, I am Leena Sravya Sree Perla
+# Hi, I'm Leena Sravya Sree Perla 👋
 
-**Analyst**
-
-I work with SQL, Python, and Power BI to turn raw business data into clear, decision-ready insights — with a focus on workforce analytics, customer behavior, revenue performance, and risk analytics.
+I am a Business Analyst who can turn messy business data into decisions people can actually act on. I do this using SQL, Python, and Power BI across workforce analytics, customer behavior, revenue performance, and risk analytics.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/leena-sravya-sree-perla-b084b1228/)
 
@@ -30,4 +28,5 @@ More projects added as they're completed.
 - Analyzed 392 coded risks across 40+ sources for an MSc dissertation, finding governance risk (not technical failure) as the most common driver of Healthcare IT project failure
 - Comfortable across the full analytics workflow: SQL for data extraction, Python for analysis, Power BI for stakeholder reporting
 
-**Open to:** Business Analyst / Business Intelligence Analyst roles
+
+Portfolio: [leenasravyasreeportfolio.netlify.app](https://leenasravyasreeportfolio.netlify.app/)
