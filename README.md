@@ -21,6 +21,7 @@ I work with SQL, Python, and Power BI to turn raw business data into clear, deci
 | [Employee Retention & HR Analytics](https://github.com/Leena-Perla/employee-retention-analysis) | Identified the strongest drivers of employee attrition and a high-risk employee segment costing an estimated £10.7M/year, with a supporting Power BI dashboard | SQL, Python, Power BI |
 
 ---
+More Projects are added here once completed.
 
 ## Highlights
 
