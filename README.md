@@ -25,7 +25,7 @@ More projects added as they're completed.
 ## Highlights
 
 - Identified a high-risk employee segment driving disproportionate attrition, with an estimated **£10.7M/year** cost impact
-- Analyzed 392 coded risks across 40+ sources for an MSc dissertation, finding governance risk (not technical failure) as the most common driver of Healthcare IT project failure
+- Analyzed 392 coded risks across 40+ sources, finding governance risk (not technical failure) as the most common driver of Healthcare IT project failure
 - Comfortable across the full analytics workflow: SQL for data extraction, Python for analysis, Power BI for stakeholder reporting
 
 
