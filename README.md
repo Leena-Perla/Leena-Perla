@@ -17,7 +17,7 @@ I am a Business Analyst who can turn messy business data into decisions people c
 | Project | Description | Tools |
 |---|---|---|
 | [Employee Retention & HR Analytics](https://github.com/Leena-Perla/employee-retention-analysis) | Identified the strongest drivers of employee attrition and a high-risk employee segment costing an estimated £10.7M/year, with a supporting Power BI dashboard | SQL, Python, Power BI |
-| [Healthcare IT Project Risk Analytics (MSc Dissertation)](https://github.com/Leena-Perla/healthcare-it-risk-analytics-dissertation) | Coded 392 socio-technical risks from 40+ academic and industry sources across 9 classification dimensions; built an interactive Power BI dashboard showing governance gaps, not technical failure, as the leading cause of Healthcare IT project risk | Power BI, Excel, Data Analysis |
+| [Healthcare IT Project Risk Analytics](https://github.com/Leena-Perla/healthcare-it-risk-analytics) | Coded 392 socio-technical risks from 40+ academic and industry sources across 9 classification dimensions; built an interactive Power BI dashboard showing governance gaps, not technical failure, as the leading cause of Healthcare IT project risk | Power BI, Excel, Data Analysis |
 
 ---
 More projects added as they're completed.
