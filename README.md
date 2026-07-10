@@ -28,6 +28,8 @@ More projects added as they're completed.
 
 - Identified a high-risk employee segment driving disproportionate attrition, with an estimated **£10.7M/year** cost impact
 - Analyzed 392 coded risks across 40+ sources, finding governance risk (not technical failure) as the most common driver of Healthcare IT project failure
+- Backtested a dual-momentum trading strategy achieving a **1.59 Sharpe Ratio** with just -7.54% max drawdown, and built CVaR- and Minimum Variance-optimized portfolios using convex optimization
+- Built and compared four sentiment classification models, with a fine-tuned BERT model reaching **98.6% accuracy** on tourist attraction reviews
 - Comfortable across the full analytics workflow: SQL for data extraction, Python for analysis, Power BI for stakeholder reporting
 
 
