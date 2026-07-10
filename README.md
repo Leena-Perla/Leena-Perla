@@ -18,6 +18,8 @@ I am a Business Analyst who can turn messy business data into decisions people c
 |---|---|---|
 | [Employee Retention & HR Analytics](https://github.com/Leena-Perla/employee-retention-analysis) | Identified the strongest drivers of employee attrition and a high-risk employee segment costing an estimated £10.7M/year, with a supporting Power BI dashboard | SQL, Python, Power BI |
 | [Healthcare IT Project Risk Analytics](https://github.com/Leena-Perla/healthcare-it-risk-analytics) | Coded 392 socio-technical risks from 40+ academic and industry sources across 9 classification dimensions; built an interactive Power BI dashboard showing governance gaps, not technical failure, as the leading cause of Healthcare IT project risk | Power BI, Excel, Data Analysis |
+| [Momentum Trading & Portfolio Optimization](https://github.com/Leena-Perla/momentum-trading-portfolio-optimization) | Backtested a dual-momentum NASDAQ trading strategy (1.59 Sharpe Ratio, -7.54% max drawdown) across 10 large-cap stocks; built CVaR-minimizing and Minimum Variance portfolios via convex optimization and analyzed sector recovery after the 2020 COVID crash | Python, pandas, cvxpy, matplotlib |
+| [Tourist Review Sentiment Classification](https://github.com/Leena-Perla/tourist-review-sentiment-classification) | Compared four NLP approaches for sentiment classification of tourist attraction reviews, from a TF-IDF baseline to a fine-tuned BERT model reaching 98.6% accuracy | Python, PyTorch, Transformers, scikit-learn |
 
 ---
 More projects added as they're completed.
