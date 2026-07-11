@@ -8,7 +8,7 @@ I am a Business Analyst who can turn messy business data into decisions people c
 
 ## Skills
 
-`Python` · `SQL` · `Power BI` · `Tableau` · `Excel` · `Data Analysis and Visualisation`
+`Power BI` · `SQL` · `Python` · `Tableau` · `Excel` · `Data Analysis and Visualisation` · `DAX` · `Business Analysis` · `Data Cleaning and Preprocessing`
 
 ---
 
