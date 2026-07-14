@@ -1,6 +1,13 @@
 <h1 align="center">*Hi, I'm Leena Sravya Sree Perla*👋</h1>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Business%20Analytics&fontSize=34&fontColor=ffffff&color=0:36D1DC,100:5B86E5"/>
+────────────────────────────────────────
+</p>
+<h3 align="center">
+Business Analytics | Business Intelligence
+</h3>
+
+<p align="center">
+Transforming data into actionable business insights.
 </p>
 
 ## 💫 About Me:
