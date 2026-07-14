@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Leena Sravya Sree Perla👋</h1>
-------------------------------------------------------
-Business Analytics | Business Intelligence | Power BI
-------------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C9A7&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Business+Insights;Business+Analytics+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Data+Storytelling;Always+Learning+%7C+Always+Building" />
+</p>
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I'm currently building business analytics and business intelligence portfolio projects focused on solving real-world business problems.<br><br>🤝 I'm looking to collaborate on Business Analysis, Business Intelligence, Reporting, and Data Analytics projects.<br><br>🌱 I'm currently learning more about Cloud Analytics and modern Business Intelligence solutions.<br><br>💬 Ask me about Business Analytics, Power BI, SQL, KPI reporting, dashboard design, data storytelling, and process improvement.<br><br>⚡ Fun fact: I enjoy turning complex business data into clear insights that help people make better decisions.
 
 
@@ -13,18 +13,14 @@ Business Analytics | Business Intelligence | Power BI
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leena-Perla&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leena-Perla&theme=transparent&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leena-Perla&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Leena-Perla&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leena-Perla&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leena-Perla&theme=github-compact&hide_border=true"/>
 </p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Leena-Perla&theme=flat&no-frame=true&no-bg=true&margin-w=10)
-
 ---
 
 ## Projects
@@ -41,20 +37,30 @@ Business Analytics | Business Intelligence | Power BI
 More projects added as they're completed.
 
 ---
-### 📊 Analytics
+## 🛠 Skills
+
+**📊 Analytics**  
 Power BI • SQL • Excel • Tableau • Python • R
 
-### 📈 Data
+**📈 Data**  
 Pandas • NumPy • Matplotlib • Plotly
 
-### 💼 Business
+**💼 Business**  
 Jira • Confluence • Trello
 
-### 🛠 Tools
+**⚙️ Tools**  
 Git • GitHub • MySQL • SQLite
 
-Portfolio: [leenasravyasreeportfolio.netlify.app](https://leenasravyasreeportfolio.netlify.app/)
----
-![](https://komarev.com/ghpvc/?username=Leena-Perla&label=Profile%20Views&color=blue&style=flat)
+## 🌐 Portfolio
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌍 **[Visit My Portfolio](https://leenasravyasreeportfolio.netlify.app/)**
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Leena-Perla&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+
+<div align="right">
+  <sub><i>Made with ❤️ by Leena Sravya Sree Perla</i></sub>
+</div>
