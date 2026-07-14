@@ -1,12 +1,9 @@
-<h1 align="center">Hi, I'm Leena Sravya Sree Perla👋</h1>
+<h1 align="center">Hi, I'm Leena Sravya Sree Perla 👋</h1>
 <p align="center">
-────────────────────────────────────────
+  <img src="https://img.shields.io/badge/Business%20Analytics%20%7C%20Business%20Intelligence-0B1F3A?style=for-the-badge&logoColor=white" />
 </p>
-<h3 align="center">
-Business Analytics | Business Intelligence
-</h3>
 <p align="center">
-Transforming data into actionable business insights.
+  <i>Transforming data into actionable business insights through analytics and data storytelling.</i>
 </p>
 
 ## 💫 About Me:
