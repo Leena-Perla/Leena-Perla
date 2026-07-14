@@ -1,7 +1,7 @@
 # Hi, I'm Leena Sravya Sree Perla 👋
 
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>🔭 I'm currently building business analytics and business intelligence portfolio projects focused on solving real-world business problems.<br><br>🤝 I'm looking to collaborate on Business Analysis, Business Intelligence, Reporting, and Data Analytics projects.<br><br>🌱 I'm currently learning more about Cloud Analytics and modern Business Intelligence solutions.<br><br>💬 Ask me about Business Analytics, Power BI, SQL, KPI reporting, dashboard design, data storytelling, and process improvement.<br><br>⚡ Fun fact: I enjoy turning complex business data into clear insights that help people make better decisions.
+👩‍💻 About Me<br><br>🔭 I'm currently building business analytics and business intelligence portfolio projects focused on solving real-world business problems.<br><br>🤝 I'm looking to collaborate on Business Analysis, Business Intelligence, Reporting, and Data Analytics projects.<br><br>🌱 I'm currently learning more about Cloud Analytics and modern Business Intelligence solutions.<br><br>💬 Ask me about Business Analytics, Power BI, SQL, KPI reporting, dashboard design, data storytelling, and process improvement.<br><br>⚡ Fun fact: I enjoy turning complex business data into clear insights that help people make better decisions.
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=Leena-Perla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Leena-Perla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Leena-Perla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Leena-Perla&icon=0&color=0)](https://visitcount.itsvg.in)
