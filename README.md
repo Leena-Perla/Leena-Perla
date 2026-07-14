@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Leena Sravya Sree Perla👋</h1>
+<h1 align="center">*Hi, I'm Leena Sravya Sree Perla*👋</h1>
 <p align="center">
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header&text=Business%20Analytics%20%7C%20Business%20Intelligence&fontSize=24&fontColor=ffffff)
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Business%20Analytics&fontSize=34&fontColor=ffffff&color=0:36D1DC,100:5B86E5"/>
 </p>
 
 ## 💫 About Me:
@@ -15,13 +13,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leena-Perla&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Leena-Perla&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leena-Perla&theme=github-compact&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leena-Perla&show_icons=true&theme=transparent&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Leena-Perla&theme=transparent&hide_border=true"/>
 </p>
 ---
 
@@ -54,7 +47,11 @@ Jira • Confluence • Trello
 Git • GitHub • MySQL • SQLite
 
 ## 🌐 Portfolio
-🌍 *[Visit My Portfolio](https://leenasravyasreeportfolio.netlify.app/)*
+<p align="center">
+  <small>
+    🌐 <a href="https://leenasravyasreeportfolio.netlify.app/">Portfolio</a>
+  </small>
+</p>
 ---
 
 <p align="center">
