@@ -1,11 +1,10 @@
-<h1 align="center">*Hi, I'm Leena Sravya Sree Perla*👋</h1>
+<h1 align="center">Hi, I'm Leena Sravya Sree Perla👋</h1>
 <p align="center">
 ────────────────────────────────────────
 </p>
 <h3 align="center">
 Business Analytics | Business Intelligence
 </h3>
-
 <p align="center">
 Transforming data into actionable business insights.
 </p>
