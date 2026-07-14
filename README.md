@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Leena Sravya Sree Perla👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C9A7&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Business+Insights;Business+Analytics+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Data+Storytelling;Always+Learning+%7C+Always+Building" />
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header&text=Business%20Analytics%20%7C%20Business%20Intelligence&fontSize=24&fontColor=ffffff)
+
 </p>
 
 ## 💫 About Me:
@@ -8,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leena-sravya-sree-perla-b084b1228/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leenaperla04@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leena-sravya-sree-perla-b084b1228/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leenaperla04@gmail.com) 
 
 ## 📊 GitHub Analytics
 
@@ -52,8 +54,7 @@ Jira • Confluence • Trello
 Git • GitHub • MySQL • SQLite
 
 ## 🌐 Portfolio
-
-🌍 **[Visit My Portfolio](https://leenasravyasreeportfolio.netlify.app/)**
+🌍 *[Visit My Portfolio](https://leenasravyasreeportfolio.netlify.app/)*
 ---
 
 <p align="center">
