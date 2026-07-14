@@ -14,10 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leena-sravya-sree-perla-b084b1228/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leenaperla04@gmail.com) 
 
 ## 📊 GitHub Analytics
-
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Leena-Perla&show_icons=true&theme=transparent&hide_border=true"/>
-
 <p align="center">
 <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leena-Perla&theme=github-compact&hide_border=true"/>
 </p>
@@ -54,7 +52,7 @@ Git • GitHub • MySQL • SQLite
 ## 🌐 Portfolio
 <p align="left">
   <small>
-    🌐 <a href="https://leenasravyasreeportfolio.netlify.app/">Portfolio</a>
+    🌐 <a href="https://leenasravyasreeportfolio.netlify.app/">Visit my Portfolio</a>
   </small>
 </p>
 ---
